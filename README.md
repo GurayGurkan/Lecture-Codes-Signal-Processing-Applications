@@ -6,5 +6,7 @@ Still under development.
 Jupyter notebook files are open for further improvement and sharing with referencing:
 
 "Lecture Notes on Signal Processing Applications' 
+
 Prepared By: Guray Gurkan, PhD
+
 e-mail: g.gurkan@iku.edu.tr

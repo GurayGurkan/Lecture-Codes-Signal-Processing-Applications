@@ -19,14 +19,16 @@ Syllabus
 
 4. Time-varying Phase Functions.
 
-5. Short time Fourier transform: Windowing
+5. Analysis of Time-varying frequency content: Short time Fourier transform
 
-6. Nyquist sampling criterion and aliasing
+6. Above Nyquist rate sampling: Aliasing
 
-7. Time domain filters: Single and Multiple Echo filters
+7. Time domain filters: Echo filter
 
 8. Frequency Domain filters: Effect of zeroes and poles on frequency response
 
 9. Frequency Domain filters: Digital FIR filter design. fir1() command usage
+
 10. Frequency Domain filters: Digital IIR filter design, s to z domain. butter() command usage.
+
 11. Mean, variance, histograms. Effects on autocorreleation vector.

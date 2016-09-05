@@ -11,11 +11,9 @@ e-mail: g.gurkan@iku.edu.tr
 
 Syllabus
 1. Introduction to course. Sampling Theorem, a practical view
-
-2. Discrete Fourier Transform: Basis Functions, mutual projections and resolution
-
-3. Discrete Fourier Transform: Calculation by projections. fft() command
-4. Instantaneous Phase, Instantaneous Frequency. Linear Chirp generation.
+2. Discrete Fourier Transform, Part 1: Basis Functions of DFT and mutual projections.
+3. Discrete Fourier Transform, Part 2: Calculation by projections. fft() command, resolution.
+4. Time-varying Phase Functions.
 5. Short time Fourier transform: Windowing
 6. Nyquist sampling criterion and aliasing
 7. Time domain filters: Single and Multiple Echo filters

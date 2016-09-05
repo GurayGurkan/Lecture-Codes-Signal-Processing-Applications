@@ -10,6 +10,7 @@ Jupyter notebook files are open for further improvement and sharing with referen
 e-mail: g.gurkan@iku.edu.tr
 
 Syllabus
+
 1. Introduction to course. Sampling Theorem, a practical view
 
 2. Discrete Fourier Transform, Part 1: Basis Functions of DFT and mutual projections.

@@ -1,7 +1,7 @@
 
 This repo includes lecture notes on Signal Processing Applications presented by the repo owner in the class. 
 
-Still under development (Aug, 2016)
+Still under development (Jan, 2017)
 
 Jupyter notebook files are open for further improvement and sharing with referencing:
 
@@ -27,7 +27,7 @@ Syllabus
 
 8. Frequency Domain filters: Effect of zeroes and poles on frequency response
 
-9. Frequency Domain filters: Digital FIR filter design. fir1() command usage
+9. Frequency Domain filters: Digital FIR filter design. 
 
 10. Frequency Domain filters: Digital IIR filter design, s to z domain. butter() command usage.
 
